@@ -14,3 +14,7 @@ SQL is widely used for extracting and manipulating data stored in databases. Thi
 - Constructing subqueries and retrieving data from multiple tables.  
 - Working with SQL and Python in **Jupyter Notebooks**.  
 - Exploring advanced topics: **Stored Procedures, Views, ACID Transactions, and JOINs**.  
+
+## Credits  
+
+This course and its exercises are part of the **Databases and SQL for Data Science with Python** curriculum developed by **IBM Skills Network**.
